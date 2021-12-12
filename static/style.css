@@ -1,0 +1,20 @@
+.brand,.list{
+    color:white;
+    }
+.brand{
+    margin-right: 40px;
+}
+.containertop{
+    margin-top: 60px;
+}
+.comments { 
+    width: 500px; height: 100px }
+.webapp{
+    margin : 40px;
+}
+.change{
+    color: blue;
+}
+.spacing{
+    margin-bottom: 40px;
+}
