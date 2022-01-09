@@ -1,1 +1,1 @@
-web : gunicorn mailing.wsgi 
+web: gunicorn mailing.wsgi 
